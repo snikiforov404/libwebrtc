@@ -1,3 +1,3 @@
 install:
-- FILE="-Dfile=aars/libwebrtc-1.0.7258.aar"
-- mvn install:install-file $FILE -DgroupId=com.github.snikiforov404 -DartifactId=libwebrtc -Dversion=1.0.7258 -Dpackaging=aar -DgeneratePom=true
+   - FILE="-Dfile=aars/libwebrtc-1.0.7258.aar"
+   - mvn install:install-file $FILE -DgroupId=com.github.snikiforov404 -DartifactId=libwebrtc -Dversion=1.0.7258 -Dpackaging=aar -DgeneratePom=true
