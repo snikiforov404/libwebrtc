@@ -6,5 +6,5 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.snikiforov404</groupId>
 	<artifactId>libwebrtc</artifactId>
-	<version>1.0.7258</version>
+	<version>1.0.7258-SNAPSHOT-1</version>
 </project>
